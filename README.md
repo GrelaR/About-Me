@@ -1,6 +1,6 @@
 # About-Me
 
-Hello there!
+Hi Everyone !
 
  I'm a web developer and system engineering student. I'm focusing on frontend development with some server side background. Any advice is more than welcome.
  
