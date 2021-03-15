@@ -1,9 +1,9 @@
 # Hi Everyone !
 
 
- I'm a web developer and software engineering student. I'm focusing on frontend development. Any advice is more than welcome.
+ Soy desarrollador web frontend y estudiante de ingeniería en sistemas en la UTN. Actualmente estoy trabajando en mi propia página web, mientras tanto agrego todos los proyectos que realizo y el código que desarrollo día a día.
  
- Feel free to contact me at: 
+ Contactame:
  
  rodrigogrela@hotmail.com
  
