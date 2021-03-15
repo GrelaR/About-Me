@@ -13,6 +13,8 @@
  
  rodrigogrela@hotmail.com
  
+ Perfil de LinkedIn:
+  
  https://www.linkedin.com/in/rodrigogrela/
  
  
