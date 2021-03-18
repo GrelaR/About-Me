@@ -5,9 +5,9 @@
  
   Las tecnologías que manejo son:
   
-  -HTML5
-  -CSS
   -JavaScript
+  -CSS
+  -HTML5
  
  Contactame:
  
