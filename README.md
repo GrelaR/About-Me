@@ -6,10 +6,10 @@
   Las tecnologías que manejo son:
   
   -JavaScript <img src="https://github.com/GrelaR/GrelaR/blob/main/javascript.png" alt="javascript icon"  height="30"/>&nbsp;&nbsp;</br>
-  -CSS </br>
+  -CSS <img src="https://github.com/GrelaR/GrelaR/blob/main/CSS.png" alt="html5 icon"  height="30"/>&nbsp;&nbsp;</br>
   -HTML5 <img src="https://github.com/GrelaR/GrelaR/blob/main/HTML5.png" alt="html5 icon"  height="30"/>&nbsp;&nbsp;</br>
  Podes contactarme en:
- 
+
  rodrigogrela@hotmail.com
  
  Perfil de LinkedIn:
