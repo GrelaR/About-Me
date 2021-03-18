@@ -9,7 +9,7 @@
   -CSS
   -HTML5
  
- Contactame:
+ Podes contactarme en:
  
  rodrigogrela@hotmail.com
  
