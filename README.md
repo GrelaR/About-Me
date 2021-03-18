@@ -5,7 +5,7 @@
  
   Las tecnologías que manejo son:
   
-  -JavaScript </br><img src="https://github.com/GrelaR/GrelaR/blob/main/javascript.png" alt="csharp"  height="30"/>&nbsp;&nbsp;
+  -JavaScript <img src="https://github.com/GrelaR/GrelaR/blob/main/javascript.png" alt="csharp"  height="30"/>&nbsp;&nbsp;</br>
   -CSS
   -HTML5
  
