@@ -14,6 +14,6 @@
  
  Perfil de LinkedIn:
   
- https://www.linkedin.com/in/rodrigogrela/
+   <img src="https://github.com/GrelaR/GrelaR/blob/main/linkedin.png" alt="CSS icon"  height="30"/>&nbsp;&nbsp; https://www.linkedin.com/in/rodrigogrela/
  
  
