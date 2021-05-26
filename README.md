@@ -1,7 +1,7 @@
 # ¡Hola! 🤝
 
 
- Soy desarrollador web frontend y estudiante de ingeniería en sistemas en la UTN. Actualmente estoy trabajando como desarrollador freelance mientras tanto agrego todos los proyectos que realizo y el código que desarrollo día a día.
+ Soy desarrollador web frontend y estudiante de ingeniería en sistemas en la UTN. Actualmente estoy trabajando como desarrollador freelance mientras tanto agrego todos los proyectos en los que iré trabajando.
  
   Las tecnologías que manejo son: </br>
   
