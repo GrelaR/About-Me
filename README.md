@@ -2,7 +2,7 @@
 
 
  Soy desarrollador web frontend y estudiante de ingeniería en sistemas en la UTN. Actualmente estoy trabajando como desarrollador freelance mientras tanto agrego todos los proyectos en los que iré trabajando.
- 
+
   Las tecnologías que manejo son: </br>
   
    <img src="https://github.com/GrelaR/GrelaR/blob/main/javascript.png" alt="javascript icon"  height="30"/>&nbsp;&nbsp; JavaScript ✅</br>
@@ -12,6 +12,8 @@
    <img src="https://github.com/GrelaR/GrelaR/blob/main/bootstrap-icon.png" alt="bootstrap icon"  height="30"/>&nbsp;&nbsp; Bootstrap ✅</br>
    <img src="https://github.com/GrelaR/GrelaR/blob/main/sass-icon.png" alt="sass icon"  height="30"/>&nbsp;&nbsp; Sass ✅</br>
    
+    Además cuento con conocimientos de backend y manejo tecnologias como Node, Express, Mongo, Mongoose.
+    
  Podes contactarme en:
 
 📨 rodrigogrela@hotmail.com
