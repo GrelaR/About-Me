@@ -10,7 +10,7 @@
    <img src="https://github.com/GrelaR/GrelaR/blob/main/CSS.png" alt="CSS icon"  height="30"/>&nbsp;&nbsp; CSS ✅</br>
    <img src="https://github.com/GrelaR/GrelaR/blob/main/HTML5.png" alt="HTML5 icon"  height="30"/>&nbsp;&nbsp; HTML5 ✅</br>
    <img src="https://github.com/GrelaR/GrelaR/blob/main/bootstrap-icon.png" alt="bootstrap icon"  height="30"/>&nbsp;&nbsp; Bootstrap ✅</br>
-   <img src="https://github.com/GrelaR/GrelaR/blob/main/sass-icon.png" alt="sass icon"  height="30"/>&nbsp;&nbsp; Sass ✅</br>
+  
    
     Además cuento con conocimientos de backend y manejo tecnologias como Node, Express, Mongo, Mongoose.
     
