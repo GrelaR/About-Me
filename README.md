@@ -5,7 +5,7 @@
 
  Podes contactarme en:
 
-📨 rodrigogrela@hotmail.com
+📨 grelarodrigo@gmail.com
  
 🔎 Perfil de LinkedIn:
   
